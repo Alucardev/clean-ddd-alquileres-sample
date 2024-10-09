@@ -1,0 +1,15 @@
+/Users/agustin/Desktop/CleanArchitecture/src/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Application.deps.json
+/Users/agustin/Desktop/CleanArchitecture/src/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Application.dll
+/Users/agustin/Desktop/CleanArchitecture/src/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Application.pdb
+/Users/agustin/Desktop/CleanArchitecture/src/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Domain.dll
+/Users/agustin/Desktop/CleanArchitecture/src/CleanArchitecture/CleanArchitecture.Application/bin/Debug/net8.0/CleanArchitecture.Domain.pdb
+/Users/agustin/Desktop/CleanArchitecture/src/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.csproj.AssemblyReference.cache
+/Users/agustin/Desktop/CleanArchitecture/src/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustin/Desktop/CleanArchitecture/src/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.AssemblyInfoInputs.cache
+/Users/agustin/Desktop/CleanArchitecture/src/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.AssemblyInfo.cs
+/Users/agustin/Desktop/CleanArchitecture/src/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+/Users/agustin/Desktop/CleanArchitecture/src/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/CleanArc.03AFA812.Up2Date
+/Users/agustin/Desktop/CleanArchitecture/src/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.dll
+/Users/agustin/Desktop/CleanArchitecture/src/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/refint/CleanArchitecture.Application.dll
+/Users/agustin/Desktop/CleanArchitecture/src/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/CleanArchitecture.Application.pdb
+/Users/agustin/Desktop/CleanArchitecture/src/CleanArchitecture/CleanArchitecture.Application/obj/Debug/net8.0/ref/CleanArchitecture.Application.dll

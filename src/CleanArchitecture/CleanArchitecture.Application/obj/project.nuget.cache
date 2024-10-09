@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "UPqkfzedrRE=",
+  "success": true,
+  "projectFilePath": "/Users/agustin/Desktop/CleanArchitecture/src/CleanArchitecture/CleanArchitecture.Application/CleanArchitecture.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/agustin/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
+    "/Users/agustin/.nuget/packages/dapper/2.1.15/dapper.2.1.15.nupkg.sha512",
+    "/Users/agustin/.nuget/packages/fluentvalidation/11.8.0/fluentvalidation.11.8.0.nupkg.sha512",
+    "/Users/agustin/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.8.0/fluentvalidation.dependencyinjectionextensions.11.8.0.nupkg.sha512",
+    "/Users/agustin/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/agustin/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/agustin/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0-rc.2.23479.6/microsoft.extensions.dependencyinjection.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "/Users/agustin/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0-rc.2.23479.6/microsoft.extensions.logging.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "/Users/agustin/.nuget/packages/serilog/3.1.1/serilog.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
